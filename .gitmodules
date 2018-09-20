@@ -1,0 +1,12 @@
+[submodule "interactive-chat"]
+	path = interactive-chat
+	url = git@github.com:chattylabs/interactive-chat.git
+[submodule "interactive-notification"]
+	path = interactive-notification
+	url = git@github.com:chattylabs/interactive-notification.git
+[submodule "conversational-flow"]
+	path = conversational-flow
+	url = git@github.com:chattylabs/conversational-flow.git
+[submodule "language-detector"]
+	path = language-detector
+	url = git@github.com:chattylabs/language-detector.git
